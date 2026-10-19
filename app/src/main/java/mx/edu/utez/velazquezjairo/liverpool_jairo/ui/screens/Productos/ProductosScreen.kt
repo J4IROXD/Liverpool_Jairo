@@ -57,7 +57,6 @@ fun ProductosScreen(
             )
         }
 
-        // Buscador (el botón es solo decorativo)
         Row(
             verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
